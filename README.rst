@@ -2,7 +2,7 @@ Untargeted Metabolomics Pipeline
 ================================
 
 :Authors: Lin An; Difei Wang, Ph.D.
-:Emails: la512@georgetown.edu; difei.wang@georgetown.edu
+:Emails: difei.wang AT georgetown.edu or wang.difei AT yahoo.com or difei.wang AT nih.gov
 
 Description
 ===========
